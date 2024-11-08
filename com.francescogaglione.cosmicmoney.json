@@ -16,7 +16,7 @@
     "--socket=wayland",
     "--device=dri",
     "--talk-name=com.system76.CosmicSettingsDaemon",
-    "--filesystem=xdg-config/cosmic:ro"
+    "--filesystem=xdg-config/cosmic:rw"
   ],
   "build-options": {
     "append-path": "/usr/lib/sdk/rust-stable/bin",
@@ -50,7 +50,7 @@
         {
           "type": "git",
           "url": "https://github.com/francesco-gaglione/cosmic-money.git",
-          "commit": "b21e2bbdbc5060e8a903f73f95c6d792f18b26c3"
+          "commit": "d9c185a09cad72f5c3d64e37bb5d12e01654a0ce"
         },
         "cargo-sources.json"
       ]
