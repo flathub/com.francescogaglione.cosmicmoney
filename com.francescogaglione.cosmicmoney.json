@@ -50,7 +50,7 @@
         {
           "type": "git",
           "url": "https://github.com/francesco-gaglione/cosmic-money.git",
-          "commit": "d9c185a09cad72f5c3d64e37bb5d12e01654a0ce"
+          "commit": "30ab8b7e30af829173ae868a40e1d0a010460f7f"
         },
         "cargo-sources.json"
       ]
